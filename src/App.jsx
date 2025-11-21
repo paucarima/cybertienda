@@ -9,7 +9,7 @@ function App({ name }) {
   const api = API_URL ?? '<<sin valor>>'
 
   return (
-    <h1 style={{ color: 'blue' }}>Hola {api} </h1>
+    <h1 style={{ color: 'blue' }}>Hola desarrollo{api} </h1>
   )
 }
 
